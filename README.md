@@ -1,0 +1,1 @@
+Starting with the home page of a website, this directory builds an interactive platform including CSS styling to manage and coordinate pharmacies and hospitals. The website's HTML is based on a semantically correct structure to optimize search engines' work.
